@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>We3 CV</title>
+        <title>Web3 CV</title>
         <meta name="description" content="Ignacio Presas Web3 CV" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
