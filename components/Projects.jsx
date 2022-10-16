@@ -32,12 +32,12 @@ const Projects = () => {
         </div>
 
         <div className="transition ease-in-out  hover:-translate-y-1 hover:scale-110 cursor-pointer">
-          <a href="https://coffee-dapp.vercel.app/" target="_blank" rel="noreferrer">
-            <img className="rounded-xl" src="./projects/coffee-dapp.png" alt="Project preview" />
+          <a href="https://wooy-repo.vercel.app/" target="_blank" rel="noreferrer">
+            <img className="rounded-xl" src="./projects/wooy.png" alt="Project preview" />
           </a>
           <p className="mx-3 mt-2 text-sm text-center">
-            This project was part of #RoadToWeb3 by Alchemy. The technologies used were React,
-            Next.js, WAGMI, TailwindCSS, NextUI and Solidity.
+            This was a freelance work for the Wooy project in which me and my partner built the
+            whole desktop Frontend from scratch.
           </p>
         </div>
       </div>
